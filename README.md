@@ -3,9 +3,11 @@
 ## tiepbs@gmail.com
 
 ```mermaid
+
 sequenceDiagram
+
 Tiep Bui --> Nha Phuong: Hello Honey
-Tiep Bui ->> Phuong Linh: How are you, my love ?.
+Tiep Bui ->> Nha Linh: How are you, my love ?.
 Nha Phuong ->> Tiep Bui: Hi Daddy
 Nha Linh ->> Tiep Bui: I am fine, dady. How was your plan ?.
 
