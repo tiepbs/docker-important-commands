@@ -1,4 +1,4 @@
-# Docker In Docker
+# Docker In Docker Tiep Bui
 
 Many of the exercises herein can be destructive to your docker environment. If you are so inclined you can run Docker inside of Docker so that you can make changes to environment (even destructive ones) without upsetting your daily routines outside of the Kata exercises. The following instructions provide setup for running Docker Inside of Docker.
 
