@@ -11,6 +11,16 @@ Nha Phuong ->> Tiep Bui: Hi Daddy
 Nha Linh ->> Tiep Bui: I am fine, dady. How was your plan ?.
 ```
 
+```mermaid
+sequenceDiagram
+Tiep --> Linh: How are you ?.
+Tiep ->> Phuong: How was the day ?.
+Linh -->> Phuong: Good afternoon, my sister
+Phuong -->> Linh: Thank you, my honey!.
+Phuong ->> Tiep: Thank you, daddy!.
+```
+
+
 Some [katas](https://en.wikipedia.org/wiki/Kata) for using [docker](https://www.docker.com/).
 
 The intent here is to create a training aid for new and forgetful Docker users. We've mostly just pulled these together from around the internet, out of books, or made them up. If you see something missing and you'd like to contribute, please feel free to create a [Pull Request](https://help.github.com/articles/creating-a-pull-request/) on this repo.
