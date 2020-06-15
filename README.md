@@ -1,6 +1,5 @@
 # Tiep Bui Docker
 ## github/tiepbs
-## tiepbs@gmail.com
 
 ```mermaid
 sequenceDiagram
